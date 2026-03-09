@@ -1,0 +1,26 @@
+rss:
+  - name: "CISA Alerts"
+    url: "https://www.cisa.gov/cybersecurity-advisories/all.xml"
+    category: "advisory"
+
+  - name: "CERT-FR"
+    url: "https://www.cert.ssi.gouv.fr/feed/"
+    category: "advisory"
+
+  - name: "CISA KEV"
+    url: "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
+    category: "kev"
+
+  - name: "Project Zero"
+    url: "http://googleprojectzero.blogspot.com/feeds/posts/default"
+    category: "research"
+
+  - name: "SANS ISC"
+    url: "https://isc.sans.edu/rssfeed.xml"
+    category: "advisory"
+
+  - name: "Bleeping Computer Security"
+    url: "https://www.bleepingcomputer.com/feed/"
+    category: "advisory"
+
+apis: []

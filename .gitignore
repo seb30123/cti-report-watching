@@ -1,0 +1,59 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.Python
+pip-wheel-metadata/
+
+# ── Virtual environments ───────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# ── Database — NEVER commit real data ─────────────────────────────────────────
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.bak
+
+# ── Reports — generated at runtime ────────────────────────────────────────────
+reports/
+
+# ── Logs — generated at runtime ───────────────────────────────────────────────
+logs/
+*.log
+
+# ── Secrets & config overrides ────────────────────────────────────────────────
+.env
+.env.*
+secrets.yaml
+config.local.yaml
+
+# ── IDE / editor ──────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ── Test / coverage ───────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ── Misc ──────────────────────────────────────────────────────────────────────
+*.bak
+*.tmp
+cve_context.csv
