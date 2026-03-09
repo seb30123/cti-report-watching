@@ -251,5 +251,3 @@ This tool uses only **public, freely available feeds**. It does not scrape, bypa
 ---
 
 ## License
-
-[MIT](LICENSE)
