@@ -1,10 +1,6 @@
-# CTI Watch 🛡️
+# CTI Watch 
 
 **Automated Cyber Threat Intelligence pipeline** — collects, enriches, scores and reports on security advisories from public sources.
-
-[![CI](https://github.com/YOUR_USERNAME/cti-watch/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/cti-watch/actions/workflows/ci.yml)
-[![Python](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
